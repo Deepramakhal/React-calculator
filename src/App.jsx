@@ -5,7 +5,7 @@ import Calculator from './components/Calculator'
 function App() {
   return (
     <>
-      <div className='w-sceen h-screen bg-[gold]'>
+      <div className='w-sceen h-screen bg-[conic-gradient(#fa8c55,white,#0ba325,#fa8c55)]'>
       <Calculator />
       </div>
     </>
